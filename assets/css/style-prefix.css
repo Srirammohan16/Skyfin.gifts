@@ -2265,7 +2265,11 @@ footer {
     gap: 30px;
   }
 
-
+.product-img {
+    width:250px;
+    height: 200px;
+  }
+  
 
   /**
    * #CTA
@@ -2395,7 +2399,11 @@ footer {
 
   .product-featured .countdown { gap: 20px; }
 
-
+.product-img {
+    width:250px;
+    height: 200px;
+  }
+  
 
   /**
    * #CTA
@@ -2438,7 +2446,11 @@ footer {
     --fs-1: 2.375rem;
 
   }
-
+.product-img {
+    width:250px;
+    height: 200px;
+  }
+  
 
 
   /**
